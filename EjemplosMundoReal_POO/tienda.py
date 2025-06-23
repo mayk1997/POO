@@ -2,17 +2,17 @@ class Producto:
     def __init__(self, nombre, precio):
         self.nombre = nombre
         self.precio = precio
-        self.stock = 10  # stock fijo para simplificar
+        self.mercancia = 10  # stock fijo para simplificar
 
     def vender(self):
-        if self.stock > 0:
-            self.stock -= 1
-            print(f"Se vendió 1 {self.nombre}. Stock restante: {self.stock}")
+        if self.mercancia > 0:
+            self.mercancia -= 1
+            print(f"Se vendió 1 {self.nombre}. mercancia restante: {self.mercancia}")
         else:
-            print(f"No hay stock disponible de {self.nombre}.")
+            print(f"No hay mercancia disponible de {self.nombre}.")
 
     def __str__(self):
-        return f"Producto: {self.nombre}, Precio: ${self.precio}, Stock: {self.stock}"
+        return f"Producto: {self.nombre}, Precio: ${self.precio}, mercancia: {self.mercancia}"
 
 
 class Cliente:
