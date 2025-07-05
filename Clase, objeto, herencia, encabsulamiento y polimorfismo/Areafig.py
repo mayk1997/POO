@@ -44,7 +44,6 @@ class Circulo(Figura):
         return f"{super().descripcion()} con radio={self.__radio}"
 
 def main():
-
     rect = Rectangulo(5, 3)
     circ = Circulo(4)
 
