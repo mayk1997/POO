@@ -1,0 +1,6 @@
+chicle,chile2,5,2.0
+A001,Arroz 5kg,20,12.50
+A002,Azúcar 2kg,15,5.75
+A003,Leche Entera 1L,30,1.25
+A004,Aceite Vegetal 1L,25,3.40
+A005,Fideos 500g,40,1.10
