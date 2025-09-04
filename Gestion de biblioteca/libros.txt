@@ -1,0 +1,16 @@
+el tunel,alejandro piero,drama,978845
+1984,George Orwell,Novela,9780451524935
+Cien Años de Soledad,Gabriel García Márquez,Novela,9780307474728
+Don Quijote,Miguel de Cervantes,Clásico,9788491050268
+El Principito,Antoine de Saint-Exupéry,Ficción,9780156012195
+Orgullo y Prejuicio,Jane Austen,Romance,9780141439518
+La Sombra del Viento,Carlos Ruiz Zafón,Misterio,9788490378636
+Crónica de una Muerte Anunciada,Gabriel García Márquez,Novela,9780307389732
+Hamlet,William Shakespeare,Teatro,9780141396507
+La Odisea,Homer,Epopeya,9780140268867
+Moby Dick,Herman Melville,Aventura,9781503280786
+El Alquimista,Paulo Coelho,Ficción,9780061122415
+El Hobbit,J.R.R. Tolkien,Fantasía,9780547928227
+Romeo y Julieta,William Shakespeare,Teatro,9780198321668
+La Divina Comedia,Dante Alighieri,Poesía,9780140448955
+Anna Karenina,León Tolstói,Novela,9780143035008
