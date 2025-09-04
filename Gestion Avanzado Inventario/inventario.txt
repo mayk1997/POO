@@ -1,0 +1,16 @@
+P000,late,12,5.0
+P001,Arroz 5kg,20,12.50
+P002,Azúcar 2kg,15,4.80
+P003,Leche Entera 1L,30,1.25
+P004,Pan Integral,25,2.10
+P005,Aceite 1L,18,5.60
+P006,Café 200g,12,3.75
+P007,Queso Fresco 500g,10,6.40
+P008,Yogurt Natural 1L,22,2.95
+P009,Jabón de Baño,50,0.90
+P010,Shampoo 400ml,14,4.20
+P011,Pasta Dental 100ml,35,1.80
+P012,Galletas 12 pack,40,3.10
+P013,Atún en Lata 170g,28,2.50
+P014,Agua Mineral 1.5L,60,0.75
+P015,Pollo Entero 2kg,8,9.90
