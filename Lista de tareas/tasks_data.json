@@ -1,0 +1,37 @@
+[
+  {
+    "id": "c1b4b5a6-1f00-4a2f-9a21-0c2d73abf001",
+    "text": "Preparar la presentación de historia",
+    "priority": "Alta",
+    "due_date": "2025-10-01",
+    "completed": false
+  },
+  {
+    "id": "d2e8d7b7-9c11-4f6a-81b2-ff9c88baf002",
+    "text": "Lavar el auto",
+    "priority": "Normal",
+    "due_date": "",
+    "completed": false
+  },
+  {
+    "id": "a3f9c8d8-5a22-4b3b-94c3-12ab77caf003",
+    "text": "Estudiar para el examen de matemáticas",
+    "priority": "Alta",
+    "due_date": "2025-10-02",
+    "completed": false
+  },
+  {
+    "id": "b4a0d9e9-7b33-4c4c-8dc4-23bc66dbf004",
+    "text": "Comprar regalo para cumpleaños",
+    "priority": "Baja",
+    "due_date": "",
+    "completed": false
+  },
+  {
+    "id": "e5b1e0fa-8c44-4d5d-9ed5-34cd55ecf005",
+    "text": "Ver documental de ciencia en Netflix",
+    "priority": "Normal",
+    "due_date": "2025-10-05",
+    "completed": false
+  }
+]
